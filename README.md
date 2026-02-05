@@ -13,8 +13,8 @@ Creación de tableros con minas, descubrimiento de celdas, marcado y desmarcado 
 El proyecto cuenta con una suite de tests automatizados que valida:
 Comportamiento correcto de las reglas del juego, casos borde y escenarios inválidos, persistencia del estado.
 
-Cobertura de tests:
-Más del 95% de cobertura en líneas y ramas de ejecución.
+Cobertura de tests: 
+99% de cobertura en líneas y ramas de ejecución del archivo principal del juego, medida mediante coverage.
 
 Conceptos aplicados:
 Programación estructurada, programación orientada a objetos, separación de responsabilidades, desarrollo basado en tests, diseño de código mantenible.
